@@ -2,13 +2,7 @@
 title: Landing Page A
 ---
 
-::ContentModuleHero
-
-<h1 id="hero-title" class="text-8xl font-bold">Sports Complex</h1>
-
-<div class="h-80 overflow-hidden rounded-3xl my-8">
-<img src="/img/yns-plt-NY1D4Zni7fc-unsplash.jpg" class="object-cover h-full w-full" />
-</div>
+::ContentModuleHero{title="Sports Complex" image="/img/yns-plt-NY1D4Zni7fc-unsplash.jpg"}
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos, laudantium, soluta corrupti velit? Dolorum ullam animi provident.
 

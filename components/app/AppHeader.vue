@@ -1,8 +1,10 @@
 <template>
   <header>
-    <div class="flex justify-between items-center gap-4 h-32">
+    <div
+      class="flex flex-wrap justify-between items-center gap-x-4 gap-y-2 sm:h-32 p-4 sm:p-0"
+    >
       <RouterLink to="/"><AppLogo /></RouterLink>
-      <nav class="space-x-8">
+      <nav class="space-x-8 order-last sm:order-none">
         <a href="/">Home</a>
         <a href="/">Home</a>
         <a href="/">Home</a>
