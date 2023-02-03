@@ -1,6 +1,6 @@
 <template>
   <AppHeader />
-  <main>
+  <main class="mb-16">
     <ContentDoc />
   </main>
   <AppFooter />

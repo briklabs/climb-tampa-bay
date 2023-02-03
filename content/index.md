@@ -4,32 +4,45 @@ title: Landing Page A
 
 ::ContentModuleHero
 
-# Nuxt Content
+<h1 id="hero-title" class="text-8xl font-bold">Sports Complex</h1>
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+<div class="h-80 overflow-hidden rounded-3xl my-8">
+<img src="/img/yns-plt-NY1D4Zni7fc-unsplash.jpg" class="object-cover h-full w-full" />
+</div>
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
-
-::ContentModuleNewsletter
-::
-::ContentModuleStats
-::
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos, laudantium, soluta corrupti velit? Dolorum ullam animi provident.
 
 ::
 
-::ContentModuleHero
-::ContentCardImage
-::
-::ContentCardImage
-::
-::ContentCardImage
-::
-::ContentCardImage
+::ContentSplit
+
+#left
+
+<h2 id="split-left-title" class="text-4xl font-bold mb-8">Oh wow</h2>
+
+Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos.
+
+paudantium, soluta corrupti velit? Dolorum ullam animi provident.
+
+#right
+
+::ContentAccordion
 ::
 ::
 
-::ContentModuleGridIcon
+::ContentGrid
+::ContentCard
+::
+::ContentCard{.col-span-2}
+::
+::ContentCard
+::
 ::
 
-::ContentModuleHero
+::ContentPricingPlans
+
+## Oh wow
+
+Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos.
+
 ::
