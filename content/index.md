@@ -4,19 +4,21 @@ title: Landing Page A
 
 ::ContentModuleHero{title="Sports Complex" image="/img/yns-plt-NY1D4Zni7fc-unsplash.jpg"}
 
+::ContentProse
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos, laudantium, soluta corrupti velit? Dolorum ullam animi provident.
+::
 
 ::
 
 ::ContentSplit
 
 #left
+::ContentProse
 
-<h2 id="split-left-title" class="text-4xl font-bold mb-8">Oh wow</h2>
+## Oh wow
 
-Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos.
-
-paudantium, soluta corrupti velit? Dolorum ullam animi provident.
+Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos paudantium, soluta corrupti velit? Dolorum ullam animi provident.
+::
 
 #right
 
@@ -35,8 +37,11 @@ paudantium, soluta corrupti velit? Dolorum ullam animi provident.
 
 ::ContentPricingPlans
 
+::ContentProse{dark}
+
 ## Oh wow
 
 Fuga nobis nostrum explicabo sapiente earum unde, eaque doloremque esse quibusdam ipsum iste dignissimos.
+::
 
 ::

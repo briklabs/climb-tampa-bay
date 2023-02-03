@@ -7,7 +7,7 @@
           <img :src="image" alt="" class="object-cover h-full w-full" />
         </picture>
       </figure>
-      <div class="prose">
+      <div>
         <slot />
       </div>
     </div>
