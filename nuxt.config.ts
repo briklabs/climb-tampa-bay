@@ -10,7 +10,7 @@ export default defineNuxtConfig({
         { hid: "description", name: "description", content: "Nuxt.js project" },
       ],
       link: [
-        { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+        { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
         {
           rel: "stylesheet",
           href: "https://cdn.lineicons.com/4.0/lineicons.css",

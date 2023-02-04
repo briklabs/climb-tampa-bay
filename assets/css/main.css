@@ -4,6 +4,6 @@
 
 @layer components {
   .btn {
-    @apply px-6 py-2 bg-black text-white font-medium tracking-wide rounded-full
+    @apply px-6 py-2 text-black border border-black  font-medium tracking-wide rounded-full inline-flex gap-2 items-center hover:bg-black hover:text-white
   }
 }
