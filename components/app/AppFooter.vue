@@ -13,9 +13,8 @@
         </div>
         <div class="sm:row-span-2 border-b cell">
           <ul class="space-y-4 uppercase">
-            <li><a href="/#the-roadmap">Roadmap</a></li>
-            <li><a href="/#">Features</a></li>
-            <li><a href="/#">Pricing</a></li>
+            <li><RouterLink to="/">Features</RouterLink></li>
+            <li><RouterLink to="/pricing">Pricing</RouterLink></li>
           </ul>
         </div>
         <div class="sm:col-span-2 sm:row-span-2 border-b cell space-y-4">
@@ -37,7 +36,7 @@
         <div class="sm:border-b cell">Instagram</div>
       </div>
     </div>
-    <div class="cell text-center">
+    <div class="text-center py-4">
       <p class="text-sm">Climb Tampa Bay 2023. A Brik Labs LLC project.</p>
     </div>
   </footer>

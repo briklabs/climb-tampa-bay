@@ -2,7 +2,11 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: "'Rubik', sans-serif",
+      },
+    },
   },
   plugins: [require("@tailwindcss/forms"), require("@tailwindcss/typography")],
 };

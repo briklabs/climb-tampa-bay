@@ -1,11 +1,11 @@
 ---
-title: CLIMB Tampa Bay
+title: Features
 ---
 
 ::ContentModuleHero{title="Climb to New Heights in Your Own Neighborhood" image="/img/yns-plt-NY1D4Zni7fc-unsplash.jpg"}
 
 ::ContentProse
-Introducing the newest and friendliest climbing gym in Tampa Bay! The facility will offer a range of challenging bouldering problems, top-notch gym equipment designed to help you build strength, and a supportive community of climbers.
+Introducing the newest and friendliest climbing gym in Tampa Bay! The facility offers a range of challenging bouldering problems, top-notch gym equipment designed to help you build strength, and a supportive community of climbers.
 ::
 
 ::
@@ -17,7 +17,9 @@ Introducing the newest and friendliest climbing gym in Tampa Bay! The facility w
 
 # The Roadmap
 
-Sign up for our newsletter and be the first to know about our grand opening, special events, and exclusive offers for members.
+**The journey to opening our new bouldering gym** has been a long and exciting one, and we're thrilled to finally be able to share it with our members. Over the next few months, we'll be working tirelessly to bring our vision to life, with a focus on providing _a truly unique and immersive climbing experience_.
+
+Our team is dedicated to delivering an exceptional gym, from the moment you step through our doors to the moment you leave. Our aim is to provide a space that feels like an extension of your own home, with all the amenities and services you need to train, relax, and enjoy your time at the gym. Whether you're a beginner or a seasoned climber, we're committed to helping you reach your full potential and achieve your climbing goals.
 
 ::
 
@@ -48,8 +50,6 @@ Expect a variety of challenging boulder problems that cater to climbers of all s
 #content
 Take a break from the climbing wall and stay productive at our fully equipped workspace area. With fast Wi-Fi, ample seating, and a cafe serving up a selection of hot and cold beverages, you can get work done and recharge in between climbing sessions.
 
-Whether you're a remote worker or just need a change of scenery, our workspace area provides a comfortable and convenient place to focus and get things done.
-
 ::
 ::ContentCardImage{image="/img/bady-abbas-VmYZe_yqxL0-unsplash.jpg"}
 
@@ -71,25 +71,23 @@ Look for well-maintained climbing equipment, such as crash pads, chalk, and clim
 Neighborhood bouldering gyms often foster a friendly and supportive community of climbers, providing a welcoming atmosphere for people of all ages and abilities.
 
 ::
-::ContentCardImage{image="/img/victor-freitas-vjkM-0m34KU-unsplash.jpg"}
+::ContentCardImage{image="/img/jennifer-latuperisa-andresen-sbumOoLG5vQ-unsplash.jpg"}
 
 #overlay
 
-## Fitness & Training Facilities
+## Relax and Recharge
 
 #content
-Many bouldering gyms also offer fitness and training facilities, such as weight rooms, hangboards, and yoga studios, to help climbers build strength, improve their technique, and achieve their climbing goals.
+Equipped with rainfall showerheads, adjustable temperature control, and spacious stalls, you'll feel refreshed and ready to take on the world.
 
 ::
 ::
 
-::ContentPricingPlans
+::ContentModuleHero
+::ContentProse
 
-::ContentProse{dark}
+# Keep in touch
 
-## Pricing Packages
-
-No matter your skill level, you'll find a place to challenge yourself and improve your technique. Conveniently located in your neighborhood, there's never been a better time to climb.
-::
-
+Sign up for our newsletter and be the first to know about our grand opening, special events, and exclusive offers for members.
+::ContentModuleNewsletter
 ::

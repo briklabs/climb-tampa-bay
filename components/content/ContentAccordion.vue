@@ -38,16 +38,20 @@ interface Item {
 
 const items: Item[] = [
   {
-    title: "Market Research",
-    body: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt voluptate dicta quo officiis explicabo consequuntur distinctio corporis earum similique!",
+    title: "Concept Development",
+    body: "This is the first stage of planning where the idea for the bouldering gym is developed and refined. This is a crucial step in determining the gym's target audience, competition, location, and business model.",
   },
   {
-    title: "Founding Membership",
-    body: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt voluptate dicta quo officiis explicabo consequuntur distinctio corporis earum similique!",
+    title: "Fundraising",
+    body: "Once the concept has been developed, the next step is to secure funding to cover the costs of leasing a space, purchasing equipment, and covering other startup costs.",
+  },
+  {
+    title: "Location Selection and Leasing",
+    body: "Once funding has been secured, the next step is to find a suitable location for the gym. This includes researching different neighborhoods, scouting out locations, and negotiating a lease agreement with the landlord.",
   },
   {
     title: "Grand Opening",
-    body: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab hic veritatis molestias culpa in, recusandae laboriosam neque aliquid libero nesciunt voluptate dicta quo officiis explicabo consequuntur distinctio corporis earum similique!",
+    body: "After the location has been secured, it's time to gear up for the big day. This includes finalizing the design and layout of the gym, ordering equipment, and setting up systems for managing membership, billing, and staffing. The grand opening is a critical moment in the life of the business, as it sets the tone for the future of the gym and helps to build momentum for continued growth.",
   },
 ];
 </script>

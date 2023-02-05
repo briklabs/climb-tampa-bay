@@ -7,9 +7,8 @@
       <nav
         class="space-x-8 order-last sm:order-none font-medium flex-1 text-center"
       >
-        <a href="/#the-roadmap">Roadmap</a>
-        <a href="/#features">Features</a>
-        <a href="/#pricing-packages">Pricing</a>
+        <RouterLink to="/">Features</RouterLink>
+        <RouterLink to="/pricing">Pricing</RouterLink>
       </nav>
       <div class="space-x-4 flex items-center">
         <a href="#" target="_blank" rel="noopener noreferrer" class="text-xl"
